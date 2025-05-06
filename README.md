@@ -14,6 +14,7 @@ Neste primeiro momento, como uma prova de conceito e viabilidade arquitetural, t
 
 1. Cadastro de Produtos
 História de Usuário:
+
 Como funcionário do mercado,
 
 Quero cadastrar produtos no sistema com informações como nome, código de barras, preço e categoria,
@@ -30,6 +31,7 @@ Critérios de Aceitação:
 
 2. Registro de Vendas
 História de Usuário:
+
 Como caixa do mercado,
 
 Quero registrar as vendas dos produtos de maneira rápida e precisa,
@@ -46,6 +48,7 @@ Critérios de Aceitação:
 
 3. Controle de Estoque
 História de Usuário:
+
 Como responsável pelo estoque,
 
 Quero monitorar o estoque de cada produto em tempo real,
@@ -62,6 +65,7 @@ Critérios de Aceitação:
 
 4. Emissão de Notas Fiscais
 História de Usuário:
+
 Como cliente,
 
 Quero receber uma nota fiscal ao finalizar minha compra,
@@ -78,6 +82,7 @@ Critérios de Aceitação:
 
 5. Relatórios de Vendas
 História de Usuário:
+
 Como dono do mercado,
 
 Quero visualizar relatórios de vendas diários, semanais e mensais,
