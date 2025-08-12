@@ -1,0 +1,5 @@
+br\edu\ifrn\mercadonovacruz\persistencia\repositorio\ProdutoRepository.class
+br\edu\ifrn\mercadonovacruz\persistencia\modelo\Produto.class
+br\edu\ifrn\mercadonovacruz\web\controladores\ProdutoControler.class
+br\edu\ifrn\mercadonovacruz\OlaSpringBoot.class
+br\edu\ifrn\mercadonovacruz\Application.class
